@@ -1,6 +1,4 @@
-Here is the full, raw Markdown code for your GitHub `README.md`. I have optimized the layout, fixed the broken links, and kept that stubborn, rebellious energy you wanted.
 
-```markdown
 # ❌ No-as-a-Service (NaaS)
 
 <p align="center">
@@ -11,7 +9,6 @@ Here is the full, raw Markdown code for your GitHub `README.md`. I have optimize
   <strong>"Because 'Yes' is a bug, not a feature."</strong>
 </p>
 
----
 
 Ever needed a graceful way to say “no”?  
 This tiny API returns random, generic, creative, and sometimes hilarious rejection reasons. It's perfectly suited for any scenario: personal life, professional avoidance, dev life, or just because you don't feel like it.
